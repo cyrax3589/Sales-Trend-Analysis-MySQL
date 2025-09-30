@@ -29,8 +29,8 @@ The dataset contains online sales transactions with the following columns:
 
 ## Visual Representations
 ### 1. Monthly Revenue and Order Volume
-![Monthly Revenue and Orders](<img width="864" height="673" alt="image" src="https://github.com/user-attachments/assets/55d2aa85-19ef-4b9b-983c-faf058fcec04" />
-)
+![Monthly Revenue and Orders]
+<img width="864" height="673" alt="image" src="https://github.com/user-attachments/assets/55d2aa85-19ef-4b9b-983c-faf058fcec04" />
 
 ### 2. Top 3 Months by Revenue
 ![Top 3 Months by Revenue](<img width="833" height="561" alt="image" src="https://github.com/user-attachments/assets/777df7c6-f32e-4bf4-b122-a7e46bbc46fd" />
@@ -42,6 +42,7 @@ The dataset contains online sales transactions with the following columns:
 
 ## Repository Structure
 sales-trend-analysis-sql/
+
 │── sales_trend_analysis.sql 
 
 │── Online Sales Data.csv 
