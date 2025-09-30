@@ -39,7 +39,12 @@ The dataset contains online sales transactions with the following columns:
 
 ## Repository Structure
 sales-trend-analysis-sql/
+
+
 │── sales_trend_analysis.sql 
+
 │── Online Sales Data.csv 
+
 │── README.md 
+
 │── Screenshots\ 
